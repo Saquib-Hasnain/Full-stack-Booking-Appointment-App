@@ -1,0 +1,52 @@
+* {
+    padding:0px;
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: rgba(11, 14, 11, 0);
+}
+
+.booking_field {
+    width: 100%;
+}
+.booking_field h1{
+    color: rgba(193, 209, 22, 0.748);
+    text-align: center;
+}
+.form{
+    height: 100px;
+    width: 500px;
+    padding-left: 620px;
+    margin-top: 30px;
+}
+.form label{
+    color: rgb(142, 96, 63);
+    font-size: 25px;
+    font-weight: bolder;
+}
+.form input{
+    padding: 7px;
+    border: 0px;
+    background-color: rgb(155, 18, 128);
+    margin-left: 20px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bolder;
+}
+.booking_btn{
+    border: 0px;
+    background-color: rgb(167, 167, 177);
+    padding: 10px;
+    color: white;
+    margin-left: 40px;
+    border-radius: 5px;
+}
+.appointments {
+    list-style: None;
+    align-items: center;
+}
+.appointment_field{
+    margin-top: 130px;
+}
